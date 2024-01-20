@@ -16,4 +16,9 @@ export const Button = styled.li`
   display: flex;
   justify-content: center;
   align-items: center;
+	font-size: 18px;
+  font-weight: 500;
+  text-transform: uppercase;
+  border: none;
+  border-radius: ${p => p.theme.radii.md};
 	`;
