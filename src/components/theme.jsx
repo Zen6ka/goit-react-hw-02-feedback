@@ -3,6 +3,7 @@ export const theme = {
 		text:'#000000',
 		white:'#FFFFFF',
 		backround:'#E6E6FA',
+		bgfocus: '#d9b3ff',
 		shadow: 'rgba(216, 191, 216, 0.75)',
 		gray:'#808080',
 	},
